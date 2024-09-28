@@ -1,2 +1,2 @@
 # HealthcareManager
-A repo for all the work done by The software engineering Scrum Team assigned to the Software Engineering Project: Healthcare Manager
+This holds the various works involved with the Software Engineering Scrum Team working on the Healthcare Manager project at Siena College 2024-2025
