@@ -1,2 +1,4 @@
 # HIPAA Compliance
 1.  https://blog.cloudticity.com/hipaa-compliance-llms-best-practices
+
+2.  https://developers.google.com/calendar/api/guides/overview
